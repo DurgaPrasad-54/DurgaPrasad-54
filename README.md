@@ -53,15 +53,14 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DurgaPrasad-54&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DurgaPrasad-54&layout=compact&theme=tokyonight" height="170"/>
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DurgaPrasad-54&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgaPrasad-54&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
