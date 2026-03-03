@@ -18,7 +18,7 @@
 ## 🔥 Featured Projects
 
 - 📦 **Hackathon Management Platform**  
-  Express.js + MongoDB + Role-based Authentication + Admin/Mentor/Student Roles  
+  Express.js + MongoDB + Role-based Authentication + Admin/Coordinator/Mentor/Student Roles  
 
 - 🤖 **Medical Chatbot**  
   FastAPI + JWT Authentication + MongoDB + External API Integration  
@@ -34,7 +34,7 @@
 ## 🧠 Technical Skills
 
 ### 👨‍💻 Programming
-`Python` | `JavaScript` | `Java` | `C++`
+`Python` | `JavaScript` | `Java`
 
 ### 🌐 Frontend
 `React.js` | `HTML5` | `CSS3`
