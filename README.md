@@ -55,8 +55,6 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DurgaPrasad-54&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasad-54&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
