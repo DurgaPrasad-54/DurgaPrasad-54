@@ -35,7 +35,7 @@ status   : Open to collaborations & internships
 <td width="50%">
 
 ### 🤖 Medical Chatbot
-> FastAPI · JWT Auth · MongoDB · External API
+> FastAPI · React.js · MongoDB · External API
 
 Intelligent medical assistant with secure authentication, real-time session handling, and external medical API integration. Built for reliability and scalable deployment.
 
