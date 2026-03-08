@@ -19,9 +19,7 @@
 
 ```yaml
 name     : Koppireddy Durga Prasad
-role     : Full-Stack Developer
 degree   : B.Tech Computer Science (in progress)
-focus    : Backend Systems · ML Deployment · REST API Architecture
 mindset  : "Learn → Build → Improve → Repeat"
 status   : Open to collaborations & internships 
 ```
