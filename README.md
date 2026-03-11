@@ -45,7 +45,7 @@ Intelligent medical assistant with secure authentication, real-time session hand
 </td>
 <td width="50%">
 
-### 📦 Hackathon Management Platform
+### 📦 DevStack(Hackathon Management Platform)
 > Express.js · MongoDB · Role-Based Auth
 
 Full-featured platform with granular access control — Admin, Coordinator, Mentor, and Student roles — designed to manage real hackathon workflows end-to-end.
