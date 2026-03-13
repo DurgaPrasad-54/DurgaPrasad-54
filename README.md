@@ -19,7 +19,7 @@
 
 ```yaml
 name     : Koppireddy Durga Prasad
-degree   : B.Tech Artificial Intelligence and Data Science (in progress)
+degree   : B.Tech Artificial Intelligence and Data Science
 mindset  : "Learn → Build → Improve → Repeat"
 status   : Open to collaborations & internships 
 ```
