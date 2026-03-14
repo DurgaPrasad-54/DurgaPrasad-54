@@ -32,7 +32,7 @@ status   : Open to collaborations & internships
 <tr>
 <td width="50%">
 
-### 🤖 Medical Chatbot
+### Medical Chatbot
 > FastAPI · React.js · MongoDB · External API
 
 Intelligent medical assistant with secure authentication, real-time session handling, and external medical API integration. Built for reliability and scalable deployment.
@@ -45,7 +45,7 @@ Intelligent medical assistant with secure authentication, real-time session hand
 </td>
 <td width="50%">
 
-### 📦 DevStack(Hackathon Management Platform)
+### DevStack(Hackathon Management Platform)
 > Express.js · MongoDB · Role-Based Auth
 
 Full-featured platform with granular access control — Admin, Coordinator, Mentor, and Student roles — designed to manage real hackathon workflows end-to-end.
@@ -60,7 +60,7 @@ Full-featured platform with granular access control — Admin, Coordinator, Ment
 <tr>
 <td width="50%">
 
-### 🌫️ Air Quality Prediction System
+### Air Quality Prediction System
 > Flask · Scikit-learn · Data Visualization
 
 ML-powered AQI predictor trained on real environmental data, with interactive visualizations and a Flask deployment pipeline for live inference.
@@ -72,7 +72,7 @@ ML-powered AQI predictor trained on real environmental data, with interactive vi
 </td>
 <td width="50%">
 
-### 📊 FinTRACK – Smart Expense Tracker
+### FinTRACK – Smart Expense Tracker
 > MERN Stack · Dashboard Analytics · Charts
 
 Full-stack personal finance app with a sleek dashboard, category breakdowns, and monthly trend graphs for intelligent expense tracking.
