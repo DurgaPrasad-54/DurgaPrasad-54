@@ -87,7 +87,7 @@ Full-stack personal finance app with a sleek dashboard, category breakdowns, and
 
 ---
 
-## 🧠 &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 #### 👨‍💻 &nbsp;Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
