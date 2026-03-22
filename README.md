@@ -26,7 +26,7 @@ status   : Open to collaborations & internships
 
 ---
 
-## 🔥 &nbsp;Featured Projects
+## &nbsp;Featured Projects
 
 <table>
 <tr>
