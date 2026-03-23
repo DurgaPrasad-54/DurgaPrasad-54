@@ -15,7 +15,7 @@
 
 ---
 
-## 👤 &nbsp;About Me
+##  &nbsp;About Me
 
 ```yaml
 name     : Koppireddy Durga Prasad
