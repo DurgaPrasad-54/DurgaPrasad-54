@@ -109,19 +109,19 @@ Full-stack personal finance app with a sleek dashboard, category breakdowns, and
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📊 &nbsp;Data & ML
+####  &nbsp;Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-#### 🎨 &nbsp;Design & Tools
+####  &nbsp;Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📈 &nbsp;GitHub Activity
+##  &nbsp;GitHub Activity
 
 <div align="center">
 
@@ -142,7 +142,7 @@ Full-stack personal finance app with a sleek dashboard, category breakdowns, and
 
 ---
 
-## 🌍 &nbsp;Connect
+##  &nbsp;Connect
 
 <div align="center">
 
