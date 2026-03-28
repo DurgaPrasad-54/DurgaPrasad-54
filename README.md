@@ -21,7 +21,7 @@
 name     : Koppireddy Durga Prasad
 degree   : B.Tech Artificial Intelligence and Data Science
 mindset  : Learn → Build → Improve → Repeat
-status   : Open to collaborations & internships 
+status   : Open to collaborations
 ```
 
 ---
