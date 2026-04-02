@@ -130,12 +130,6 @@ Full-stack personal finance app with a sleek dashboard, category breakdowns, and
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DurgaPrasad-54&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasad-54&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="170"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgaPrasad-54&theme=tokyo-night&hide_border=true&radius=8" width="100%"/>
 
 </div>
